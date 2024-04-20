@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamkrishnank&label=Profile%20views&color=0e75b6&style=flat" alt="shyamkrishnank" /> </p>
 
-- 🌱 I’m currently learning **Django, React**
+- 🌱 I’m currently working on **Django, React**
 
 - 📫 How to reach me **shyamkrishnank18@gmail.com**
 
